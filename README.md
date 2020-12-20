@@ -66,7 +66,7 @@ Class01 : size()
 Class01 : int chimp
 Class01 : int gorilla
 class Class10 {
-  <<service>>
+  >>service>>
   int id
   size()
 }
