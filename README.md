@@ -50,6 +50,7 @@ Parallel 3   :         des5, after des3, 1d
 Parallel 4   :         des6, after des4, 1d
 ```
 
+At leas in my case, all the diagrams from this one fail at rendering using the extensions. 
 
 ### Class
 
