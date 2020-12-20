@@ -109,3 +109,9 @@ journey
       Go downstairs: 5: Me
       Sit down: 3: Me
 ```
+
+## Using SVG
+
+ Here we show in a standard format (SVG) without having to install any extensions. But we will have to create a process that automatically creates the images from the text.
+ 
+ 
